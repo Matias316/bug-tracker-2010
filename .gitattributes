@@ -2,6 +2,7 @@
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
+src/unlp/edu/core/Main.java -text
 src/unlp/edu/core/Miembro.java -text
 src/unlp/edu/core/Proyecto.java -text
 src/unlp/edu/core/Role.java -text
