@@ -6,4 +6,5 @@ src/unlp/edu/core/Miembro.java -text
 src/unlp/edu/core/Proyecto.java -text
 src/unlp/edu/core/Role.java -text
 src/unlp/edu/core/Sistema.java -text
+src/unlp/edu/core/TipoItem.java -text
 src/unlp/edu/core/Usuario.java -text
