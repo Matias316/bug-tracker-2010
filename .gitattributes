@@ -1,5 +1,6 @@
 * text=auto !eol
 /aaaa.jpage -text
+src/unlp/edu/LoginServlet.java -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
