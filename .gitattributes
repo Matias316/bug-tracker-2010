@@ -11,6 +11,7 @@ html/iconos/propiedades.png -text svneol=unset#unset
 html/iconos/ver.png -text svneol=unset#unset
 html/index.html -text
 html/javascript.js -text
+html/sistema.html -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
