@@ -4,6 +4,7 @@ html/iconos/borrar.png -text svneol=unset#unset
 html/iconos/correcto.png -text svneol=unset#unset
 html/iconos/editar.png -text svneol=unset#unset
 html/iconos/listado.png -text svneol=unset#unset
+html/iconos/nuevo.png -text svneol=unset#unset
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
