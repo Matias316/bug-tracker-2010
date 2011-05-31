@@ -9,6 +9,7 @@ html/iconos/nuevo.png -text svneol=unset#unset
 html/iconos/prohibido.png -text svneol=unset#unset
 html/iconos/propiedades.png -text svneol=unset#unset
 html/iconos/ver.png -text svneol=unset#unset
+html/index.html -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
