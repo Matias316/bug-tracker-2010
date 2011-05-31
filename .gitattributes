@@ -24,3 +24,4 @@ src/unlp/edu/core/Sistema.java -text
 src/unlp/edu/core/TipoItem.java -text
 src/unlp/edu/core/Usuario.java -text
 src/unlp/edu/servlets/LoginServlet.java -text
+/web.xml -text
