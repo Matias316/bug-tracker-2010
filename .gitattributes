@@ -1,5 +1,6 @@
 * text=auto !eol
 /aaaa.jpage -text
+html/estilos.css -text
 html/iconos/borrar.png -text svneol=unset#unset
 html/iconos/correcto.png -text svneol=unset#unset
 html/iconos/editar.png -text svneol=unset#unset
