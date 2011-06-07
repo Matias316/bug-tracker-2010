@@ -13,6 +13,7 @@ html/iconos/ver.png -text svneol=unset#unset
 html/index.html -text
 html/javascript.js -text
 html/sistema.html -text
+lib/servlet-api.jar -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
