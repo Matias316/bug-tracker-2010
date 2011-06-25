@@ -8,6 +8,16 @@ jsp/config.jsp -text
 jsp/estilos.css -text
 jsp/footer.jsp -text
 jsp/html_head.jsp -text
+jsp/iconos/agregar_proyecto.png -text
+jsp/iconos/agregar_usuario.png -text
+jsp/iconos/cambiar_estado.png -text
+jsp/iconos/historial.png -text
+jsp/iconos/listar_proyectos.png -text
+jsp/iconos/listar_usuarios.png -text
+jsp/iconos/proyecto_editar.png -text
+jsp/iconos/proyecto_trabajar.png -text
+jsp/iconos/usuario_editar.png -text
+jsp/iconos/ver_detalles.png -text
 jsp/index.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
