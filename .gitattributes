@@ -11,6 +11,7 @@ jsp/footer.jsp -text
 jsp/html_head.jsp -text
 jsp/iconos/agregar_proyecto.png -text
 jsp/iconos/agregar_usuario.png -text
+jsp/iconos/borrar.png -text
 jsp/iconos/cambiar_estado.png -text
 jsp/iconos/historial.png -text
 jsp/iconos/listar_proyectos.png -text
