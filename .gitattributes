@@ -25,6 +25,7 @@ jsp/login.jsp -text
 jsp/proyecto_trabajar.jsp -text
 jsp/sistema.jsp -text
 lib/servlet-api.jar -text
+src/unlp/edu/action/LoginAction.java -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
 src/unlp/edu/core/Item.java -text
