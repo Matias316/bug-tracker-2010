@@ -9,7 +9,6 @@ html/iconos/listado.png -text svneol=unset#unset
 html/iconos/nuevo.png -text svneol=unset#unset
 html/iconos/prohibido.png -text svneol=unset#unset
 html/iconos/propiedades.png -text svneol=unset#unset
-html/iconos/ver.png -text svneol=unset#unset
 html/index.html -text
 html/javascript.js -text
 html/sistema.html -text
