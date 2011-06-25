@@ -1,6 +1,5 @@
 * text=auto !eol
 /ApplicationResources.properties -text
-/aaaa.jpage -text
 /build.properties -text
 /build.xml -text
 jsp/_tablaItem.jsp -text
