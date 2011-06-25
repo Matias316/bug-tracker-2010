@@ -1,6 +1,19 @@
 * text=auto !eol
 /aaaa.jpage -text
 /build.xml -text
+jsp/_tablaItem.jsp -text
+jsp/agregar_proyecto.jsp -text
+jsp/agregar_usuarios.jsp -text
+jsp/config.jsp -text
+jsp/estilos.css -text
+jsp/footer.jsp -text
+jsp/html_head.jsp -text
+jsp/index.jsp -text
+jsp/listar_proyectos.jsp -text
+jsp/listar_usuarios.jsp -text
+jsp/login.jsp -text
+jsp/proyecto_trabajar.jsp -text
+jsp/sistema.jsp -text
 lib/servlet-api.jar -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
