@@ -1,5 +1,7 @@
 * text=auto !eol
+/ApplicationResources.properties -text
 /aaaa.jpage -text
+/build.properties -text
 /build.xml -text
 jsp/_tablaItem.jsp -text
 jsp/agregar_proyecto.jsp -text
@@ -56,4 +58,7 @@ src/unlp/edu/core/Role.java -text
 src/unlp/edu/core/Sistema.java -text
 src/unlp/edu/core/TipoItem.java -text
 src/unlp/edu/core/Usuario.java -text
+/struts-config.xml -text
+/validation.xml -text
+/validator-rules.xml -text
 /web.xml -text
