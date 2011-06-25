@@ -1,7 +1,6 @@
 * text=auto !eol
 /aaaa.jpage -text
 /build.xml -text
-html/index.html -text
 lib/servlet-api.jar -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
