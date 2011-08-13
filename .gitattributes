@@ -24,10 +24,12 @@ jsp/index.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
 jsp/login.jsp -text
+jsp/proyecto_borrar.jsp -text
 jsp/proyecto_editar.jsp -text
 jsp/proyecto_trabajar.jsp -text
 jsp/sistema.jsp -text
 jsp/usuario_editar.jsp -text
+jsp/usuario_eliminar.jsp -text
 lib/antlr-2.7.2.jar -text
 lib/bsf-2.3.0.jar -text
 lib/commons-beanutils-1.8.0.jar -text
