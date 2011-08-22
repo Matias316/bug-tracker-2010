@@ -3,6 +3,7 @@
 /build.properties -text
 /build.xml -text
 jsp/_tablaItem.jsp -text
+jsp/_tablaMiembros.jsp -text
 jsp/agregar_proyecto.jsp -text
 jsp/agregar_usuarios.jsp -text
 jsp/config.jsp -text
