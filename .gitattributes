@@ -9,6 +9,7 @@ jsp/config.jsp -text
 jsp/estilos.css -text
 jsp/footer.jsp -text
 jsp/html_head.jsp -text
+jsp/iconos/Home.png -text
 jsp/iconos/agregar_proyecto.png -text
 jsp/iconos/agregar_usuario.png -text
 jsp/iconos/borrar.png -text
