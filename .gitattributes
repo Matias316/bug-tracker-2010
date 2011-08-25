@@ -4,6 +4,7 @@
 /build.xml -text
 jsp/_tablaItem.jsp -text
 jsp/_tablaMiembros.jsp -text
+jsp/agregar_miembro.jsp -text
 jsp/agregar_proyecto.jsp -text
 jsp/agregar_usuarios.jsp -text
 jsp/config.jsp -text
@@ -54,6 +55,7 @@ lib/struts-mailreader-dao-1.3.10.jar -text
 lib/struts-scripting-1.3.10.jar -text
 lib/struts-taglib-1.3.10.jar -text
 lib/struts-tiles-1.3.10.jar -text
+src/unlp/edu/action/AgregarMiembroAction.java -text
 src/unlp/edu/action/AgregarProyectoAction.java -text
 src/unlp/edu/action/AgregarUsuarioAction.java -text
 src/unlp/edu/action/EditarProyectoAction.java -text
