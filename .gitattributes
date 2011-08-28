@@ -26,6 +26,7 @@ jsp/iconos/proyecto_trabajar.png -text
 jsp/iconos/usuario_editar.png -text
 jsp/iconos/ver_detalles.png -text
 jsp/index.jsp -text
+jsp/item_cambiarEstado.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
 jsp/login.jsp -text
