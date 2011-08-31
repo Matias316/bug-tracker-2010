@@ -35,6 +35,8 @@ jsp/iconos/usuario_editar.png -text
 jsp/iconos/ver_detalles.png -text
 jsp/index.jsp -text
 jsp/item_cambiarEstado.jsp -text
+jsp/item_editar.jsp -text
+jsp/item_eliminar.jsp -text
 jsp/item_historial.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
@@ -71,6 +73,7 @@ src/unlp/edu/action/AgregarMiembroAction.java -text
 src/unlp/edu/action/AgregarProyectoAction.java -text
 src/unlp/edu/action/AgregarUsuarioAction.java -text
 src/unlp/edu/action/CambiarEstadoAction.java -text
+src/unlp/edu/action/EditarItemAction.java -text
 src/unlp/edu/action/EditarProyectoAction.java -text
 src/unlp/edu/action/EditarUsuarioAction.java -text
 src/unlp/edu/action/EliminarProyectoAction.java -text
