@@ -82,6 +82,7 @@ src/unlp/edu/action/EliminarUsuarioAction.java -text
 src/unlp/edu/action/LoginAction.java -text
 src/unlp/edu/core/Estado.java -text
 src/unlp/edu/core/EstadoItem.java -text
+src/unlp/edu/core/EstadosHistoricos.java -text
 src/unlp/edu/core/Item.java -text
 src/unlp/edu/core/Main.java -text
 src/unlp/edu/core/Miembro.java -text
