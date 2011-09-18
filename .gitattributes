@@ -34,6 +34,7 @@ jsp/iconos/right2.gif -text
 jsp/iconos/usuario_editar.png -text
 jsp/iconos/ver_detalles.png -text
 jsp/index.jsp -text
+jsp/item_agregar.jsp -text
 jsp/item_cambiarEstado.jsp -text
 jsp/item_editar.jsp -text
 jsp/item_eliminar.jsp -text
