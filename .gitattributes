@@ -80,6 +80,7 @@ src/unlp/edu/action/AgregarUsuarioAction.java -text
 src/unlp/edu/action/CambiarEstadoAction.java -text
 src/unlp/edu/action/EditarItemAction.java -text
 src/unlp/edu/action/EditarProyectoAction.java -text
+src/unlp/edu/action/EditarTipoItemAction.java -text
 src/unlp/edu/action/EditarUsuarioAction.java -text
 src/unlp/edu/action/EliminarItemAction.java -text
 src/unlp/edu/action/EliminarProyectoAction.java -text
