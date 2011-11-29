@@ -42,6 +42,7 @@ jsp/item_historial.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
 jsp/login.jsp -text
+jsp/miembro_editarMiembro.jsp -text
 jsp/popcalendar.js -text
 jsp/proyecto_borrar.jsp -text
 jsp/proyecto_editar.jsp -text
@@ -81,6 +82,7 @@ src/unlp/edu/action/AgregarTipoItemAction.java -text
 src/unlp/edu/action/AgregarUsuarioAction.java -text
 src/unlp/edu/action/CambiarEstadoAction.java -text
 src/unlp/edu/action/EditarItemAction.java -text
+src/unlp/edu/action/EditarMiembroAction.java -text
 src/unlp/edu/action/EditarProyectoAction.java -text
 src/unlp/edu/action/EditarTipoItemAction.java -text
 src/unlp/edu/action/EditarUsuarioAction.java -text
