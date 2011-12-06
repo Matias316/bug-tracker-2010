@@ -9,6 +9,7 @@ jsp/agregar_miembro.jsp -text
 jsp/agregar_proyecto.jsp -text
 jsp/agregar_usuarios.jsp -text
 jsp/config.jsp -text
+jsp/estado_agregarEstadoSiguiente.jsp -text
 jsp/estilos.css -text
 jsp/footer.jsp -text
 jsp/html_head.jsp -text
