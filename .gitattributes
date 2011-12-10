@@ -80,6 +80,7 @@ src/unlp/edu/action/AgregarEstadoSiguienteAction.java -text
 src/unlp/edu/action/AgregarEstadoTipoItemAction.java -text
 src/unlp/edu/action/AgregarItemAction.java -text
 src/unlp/edu/action/AgregarMiembroAction.java -text
+src/unlp/edu/action/AgregarMiembroDisponibleAction.java -text
 src/unlp/edu/action/AgregarProyectoAction.java -text
 src/unlp/edu/action/AgregarTipoItemAction.java -text
 src/unlp/edu/action/AgregarUsuarioAction.java -text
