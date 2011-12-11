@@ -56,6 +56,7 @@ jsp/tipoItem_editar.jsp -text
 jsp/usuario_editar.jsp -text
 jsp/usuario_eliminar.jsp -text
 jsp/volver_links.jsp -text
+jsp/xml/mapa_links.xml -text
 lib/antlr-2.7.2.jar -text
 lib/bsf-2.3.0.jar -text
 lib/commons-beanutils-1.8.0.jar -text
