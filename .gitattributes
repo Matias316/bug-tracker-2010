@@ -46,6 +46,7 @@ jsp/item_historial.jsp -text
 jsp/listar_proyectos.jsp -text
 jsp/listar_usuarios.jsp -text
 jsp/login.jsp -text
+jsp/logout.jsp -text
 jsp/miembro_editarMiembro.jsp -text
 jsp/popcalendar.js -text
 jsp/proyecto_borrar.jsp -text
