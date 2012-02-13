@@ -56,7 +56,6 @@ jsp/proyecto_trabajar.jsp -text
 jsp/sistema.jsp -text
 jsp/tipoItem_agregar.jsp -text
 jsp/tipoItem_agregarEstado.jsp -text
-jsp/tipoItem_agregarMiembroDisponible.jsp -text
 jsp/tipoItem_editar.jsp -text
 jsp/usuario_editar.jsp -text
 jsp/usuario_eliminar.jsp -text
