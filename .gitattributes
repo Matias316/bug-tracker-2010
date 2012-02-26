@@ -8,6 +8,7 @@ jsp/_tablaTiposItem.jsp -text
 jsp/agregar_miembro.jsp -text
 jsp/agregar_proyecto.jsp -text
 jsp/agregar_usuarios.jsp -text
+jsp/combodependiente.jsp -text
 jsp/config.jsp -text
 jsp/estado_agregarEstadoSiguiente.jsp -text
 jsp/estado_agregarMiembroDisponible.jsp -text
