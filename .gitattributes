@@ -2,6 +2,8 @@
 /ApplicationResources.properties -text
 /build.properties -text
 /build.xml -text
+db/BugTracker_20120312_1322 -text
+db/LoadRoles.sql -text
 jsp/_tablaItem.jsp -text
 jsp/_tablaMiembros.jsp -text
 jsp/_tablaTiposItem.jsp -text
