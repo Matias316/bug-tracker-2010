@@ -3,6 +3,7 @@
 /build.properties -text
 /build.xml -text
 db/BugTracker_20120312_1322 -text
+db/LoadInitialUsers.sql -text
 db/LoadRoles.sql -text
 jsp/_tablaItem.jsp -text
 jsp/_tablaMiembros.jsp -text
