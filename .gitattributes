@@ -77,6 +77,8 @@ lib/ejb3-persistence.jar -text
 lib/freemarker-2.3.15.jar -text
 lib/hibernate-annotations-3.2.1.ga.jar -text
 lib/hibernate-core.jar -text
+lib/hibernate-validator.jar -text
+lib/hibernate3.jar -text
 lib/javassist-3.9.0.GA.jar -text
 lib/jsp-api.jar -text
 lib/jstl-1.0.2.jar -text
